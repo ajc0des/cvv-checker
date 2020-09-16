@@ -11,9 +11,6 @@ Cc checker
 
 
 
-[Support group-@cc_check](https://t.me/cc_check)
-
-[Channel-@cc_checker](https://t.me/cc_checker)
 
 
 # Note
